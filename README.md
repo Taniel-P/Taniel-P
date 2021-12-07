@@ -1,6 +1,6 @@
 ### Hi there 👋
+<a href="mailto:taniel.pogharian@gmail.com"><img height="25" alt="GMail" src="https://img.shields.io/badge/taniel.pogharian@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 
 taniel.pogharian@gmail.com  https://www.linkedin.com/in/taniel-pogharian/   https://github.com/Taniel-P
