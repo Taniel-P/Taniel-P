@@ -2,6 +2,9 @@
 <a href="mailto:taniel.pogharian@gmail.com"><img height="25" alt="GMail" src="https://img.shields.io/badge/taniel.pogharian@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/taniel-pogharian/"><img height="25" alt="LinkedIn" src="https://img.shields.io/badge/taniel.pogharian-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+### Who am I?
+Hello
+
 
 ## What I use
 #### Frontend
