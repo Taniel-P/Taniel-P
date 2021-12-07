@@ -50,6 +50,8 @@
   <img height="25" alt="CircleCI" src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" />
 </div>
 
+
+## My stats
 <div>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Taniel-P&theme=dark&show_icons=true" />
 </div>
