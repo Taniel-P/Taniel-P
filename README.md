@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 taniel.pogharian@gmail.com  https://www.linkedin.com/in/taniel-pogharian/   https://github.com/Taniel-P
 <!--
