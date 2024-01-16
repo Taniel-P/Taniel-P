@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/taniel-pogharian/"><img height="25" alt="LinkedIn" src="https://img.shields.io/badge/taniel.pogharian-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Who am I?
-Full stack software engineer with a passion for creating full stack web applications. 
+Full stack software engineer with a passion for creating immersive web applications. 
 
 
 ## What I use
